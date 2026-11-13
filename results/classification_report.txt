@@ -1,0 +1,16 @@
+AUTONOMOUS DRONE FIRE AND SMOKE DETECTION
+==================================================
+
+Test Accuracy: 91.67%
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+        Fire     0.9072    0.8800    0.8934       100
+     Neutral     0.9320    0.9600    0.9458       100
+       Smoke     0.9100    0.9100    0.9100       100
+
+    accuracy                         0.9167       300
+   macro avg     0.9164    0.9167    0.9164       300
+weighted avg     0.9164    0.9167    0.9164       300

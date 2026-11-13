@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Training dataset
+dataset/
+
+# External test images
+external_test/
+
+# Trained model files
+model/*.keras
+model/*.h5
+
+# IDE / system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Temporary / historical experiment logs
+results/incident_log_old.csv
+results/batch_*.csv

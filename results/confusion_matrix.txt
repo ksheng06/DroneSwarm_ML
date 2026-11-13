@@ -1,0 +1,8 @@
+Rows = Actual Class
+Columns = Predicted Class
+
+Class order: Fire, Neutral, Smoke
+
+[[88  3  9]
+ [ 4 96  0]
+ [ 5  4 91]]
